@@ -3,6 +3,6 @@ import { defineConfig } from "vite";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    base: "/react-projects-set-3",
+    base: "/MERN3",
     plugins: [react()],
 });
